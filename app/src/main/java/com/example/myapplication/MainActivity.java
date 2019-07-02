@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        //TODO
         anniu=(Button)findViewById(R.id.btn1);
         btn2=(Button)findViewById(R.id.btn2);
         edittext=(EditText)findViewById(R.id.editText) ;
